@@ -1,16 +1,4 @@
-# flutter_application_1
+"bilexis-grammar" project is an educational application that focuses on grammar topics. The project allows users to select a topic, read a brief explanation, and then engage in an interactive experience with multiple-choice questions and answers. The project retrieves data from an API and utilizes HTML library for the topic explanations.
+Please note that the project is currently on hold due to the API servers being unavailable or the lack of interaction with the project manager. The project incorporates various elements such as API integration, library usage, BLoC pattern, and DAO repository. Kindly note that the shared video does not represent the final version of the project.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/selmanparlak/bilexis-grammar/assets/67348445/150140ac-8381-4c51-b607-2af07eb53740
